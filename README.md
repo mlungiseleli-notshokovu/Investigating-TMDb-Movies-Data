@@ -1,4 +1,5 @@
-# Investigating-TMDb-Movies-data - Wrangling & Analysis
+# Udacity's Data Analyst Nanodegree Program
+# Investigating the TMDbMovies Data - Wrangling & Analysis
 
 ## **About the project**
 In this project, I have to choose any one Dataset for investigation out of 4. 
